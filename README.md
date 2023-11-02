@@ -26,7 +26,7 @@ You can navigate through the solutions by checking out the folders for each day.
 Here's a list of the 30 topics I covered during this challenge:
 
 1. [Day 1: Getting Started with JavaScript - The Basics](Day1/day1.md)
-2. [Data types](Day1/day2.md)
+2. [Day 2: Data types](Day1/day2.md)
 
 
 ## Contributing
