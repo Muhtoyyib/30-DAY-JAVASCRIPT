@@ -25,12 +25,9 @@ You can navigate through the solutions by checking out the folders for each day.
 
 Here's a list of the 30 topics I covered during this challenge:
 
-1. [Day 1: Getting Started with JavaScript - The Basics](Day1/)
-<!-- 2. [Day 2: Variables and Data Types in JavaScript](Day2/)
-3. [Day 3: Exploring Conditional Statements in JavaScript](Day3/)
-4. [Day 4: Understanding Loops in JavaScript](Day4/)
-5. [Day 5: Functions in JavaScript - A Fundamental Concept](Day5/)
-6. ... -->
+1. [Day 1: Getting Started with JavaScript - The Basics](Day1/day1.md)
+2. [Data types](Day1/day2.md)
+
 
 ## Contributing
 
