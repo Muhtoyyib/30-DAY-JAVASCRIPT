@@ -9,3 +9,5 @@ JavaScript offers several data types, including numbers, strings, booleans, and 
 Before you proceed to the [solutions](solutions-day2/)folder, make sure to review the essential concepts and exercises in the [introduction document](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md).
 
 Let's code, create, and conquer together 👨🏻‍💻🚀💪🏻!
+
+[<< Day 1](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day1/day1.md) | [Day 3 >>]()
