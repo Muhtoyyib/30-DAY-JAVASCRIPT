@@ -2,8 +2,7 @@
 
 Welcome to my 30-Day JavaScript Challenge repository! 🚀
 
-In this repository, you'll find my solutions to <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master" target="_blank">Asabenah's 30- Days-of-JavaScript coding challenge</a>
-. Each day, I tackled a different JavaScript concept and provided my code solutions.
+In this repository, you'll find my solutions to <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master" target="_blank">Asabenah's 30- Days-of-JavaScript coding challenge</a>. Each day, I tackled a different JavaScript concept and provided my code solutions.
 
 ## Table of Contents
 

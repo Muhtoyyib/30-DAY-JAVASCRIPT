@@ -10,7 +10,7 @@ Today, we're diving into **Boolean, Operators, and Date**.
 
 **Date**: The Date object allows working with dates and times, enabling tasks like displaying current dates, calculating differences, and scheduling events in web applications.
 
-Before you proceed to the [solutions](solutions-day3/) folder, make sure to review the essential concepts and exercises in the [introduction document](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/03_booleans_operators_date.md){:target="_blank"}.
+Before you proceed to the [solutions](solutions-day3/) folder, make sure to review the essential concepts and exercises in the<a href="https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/03_booleans_operators_date.md" target="_blank"> introduction document</a>.
 
 Let's code, create, and conquer together 👨🏻‍💻🚀💪🏻!
 
