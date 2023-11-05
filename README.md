@@ -29,6 +29,7 @@ Here's a list of the 30 topics I covered during this challenge:
 2. [Day 2: Data types](Day2/day2.md)
 3. [Day 3: Boolean, Operators, and Dates](Day3/day3.md)
 4. [Day 4: Conditionals](Day4/day4.md)
+5. [Day 5: Arrays](Day5/day4.md)
 
 
 ## Contributing
