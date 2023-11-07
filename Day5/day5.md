@@ -1,4 +1,4 @@
-# [Day 5](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day4/day4.md)
+# [Day 5](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day5/day5.md)
 
 Welcome to Day 4 of our 30-Day JavaScript Challenge! 
 
