@@ -32,7 +32,7 @@ Here's a list of the 30 topics I covered during this challenge:
 5. [Day 5: Arrays](Day5/day5.md)
 6. [Day 6:  Loops](Day6/day6.md)
 7. [Day 7: Functions](Day7/day7.md)
-
+8. [Day 8: Objects](Day8/day8.md)
 
 
 ## Contributing
