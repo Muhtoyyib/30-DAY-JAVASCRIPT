@@ -35,6 +35,7 @@ Here's a list of the 30 topics I covered during this challenge:
 8. [Day 8: Objects](Day8/day8.md)
 9. [Day 9: Higher-order Functions](Day9/day9.md)
 10. [Day 10: Sets and Maps](Day10/day10.md)
+11. [Day 11: Destructuring and Spreading](Day11/day11.md)
 
 ## Contributing
 

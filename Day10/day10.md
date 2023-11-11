@@ -1,6 +1,6 @@
 # [Day 10](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day10/day10.md)
 
-Welcome to Day 9 of our 30-Day JavaScript Challenge! 
+Welcome to Day 10 of our 30-Day JavaScript Challenge! 
 
 Today, we're diving into **Sets and Maps**.
 
@@ -14,4 +14,4 @@ Before you proceed to the [solutions](solutions-day10/) folder, make sure to rev
 
 Let's code, create, and conquer together 👨🏻‍💻🚀💪🏻!
 
-[<< Day 9](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day9/day9.md) | [Day 10 >>](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day11/day11.md)
+[<< Day 9](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day9/day9.md) | [Day 11 >>](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day11/day11.md)
