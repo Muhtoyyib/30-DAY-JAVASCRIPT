@@ -2950,9 +2950,11 @@ for (const {name: countryName, capital, languages, population} of countries_data
 
 // 2
 
-{const student = ['David', ['HTM', 'CSS', 'JS', 'React'], [98, 85, 90, 95]]
-const [stuName, skills, [, , jsScore, reactScore]] = student;
-console.log(stuName, skills, jsScore, reactScore); }
+{
+	const student = ['David', ['HTM', 'CSS', 'JS', 'React'], [98, 85, 90, 95]]
+	const [stuName, skills, [, , jsScore, reactScore]] = student;
+	console.log(stuName, skills, jsScore, reactScore); 
+}
 
 // 3
 
