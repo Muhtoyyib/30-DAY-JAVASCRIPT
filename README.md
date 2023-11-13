@@ -37,6 +37,7 @@ Here's a list of the 30 topics I covered during this challenge:
 10. [Day 10: Sets and Maps](Day10/day10.md)
 11. [Day 11: Destructuring and Spreading](Day11/day11.md)
 12. [Day 12: Regular Expressions](Day12/day12.md)
+13. [Day 13: Console Object Methods](Day13/day13.md)
 
 ## Contributing
 
