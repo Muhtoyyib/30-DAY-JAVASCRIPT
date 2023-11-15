@@ -39,6 +39,7 @@ Here's a list of the 30 topics I covered during this challenge:
 12. [Day 12: Regular Expressions](Day12/day12.md)
 13. [Day 13: Console Object Methods](Day13/day13.md)
 14. [Day 14: Error Handling](Day14/day14.md)
+15. [Day 15: Classes](Day15/day15.md)
 
 ## Contributing
 
