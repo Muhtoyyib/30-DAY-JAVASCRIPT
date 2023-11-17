@@ -41,6 +41,7 @@ Here's a list of the 30 topics I covered during this challenge:
 14. [Day 14: Error Handling](Day14/day14.md)
 15. [Day 15: Classes](Day15/day15.md)
 16. [Day 16: JSON](Day16/day16.md)
+17. [Day 17: Web Storages](Day17/day17.md)
 
 ## Contributing
 
