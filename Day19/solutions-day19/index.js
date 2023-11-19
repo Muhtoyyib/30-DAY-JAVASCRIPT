@@ -1,17 +1,22 @@
 // Exercises: Level 1
 
-{
-    function getInfo(fname, lname){
+function personInfo(fname, lname){
     let firsrtName = fname;
     let lastName = lname;
 
     function getFullName(){
-        return `${firsrtName} ${lastName}`;
+        let fullName = `${firsrtName} ${lastName}`;
+
+        return fullName
     }
 
-    return getFullName;
-    }
+    return { fullName: getFullName() }
 }
+
+let innerfunc = personInfo('Akande', 'Toheeb');
+
+console.log(innerfunc.fullName);
+
 
 // Exercises: Level 2
 
@@ -45,4 +50,4 @@ function getInfo(fname, lname, age, contact, address, occupation, salary){
 
 // Exercises: Level 3
 
-// Repeated Exercise
+// Check day17 to try it out
