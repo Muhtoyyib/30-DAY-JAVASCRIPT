@@ -44,6 +44,8 @@ Here's a list of the 30 topics I covered during this challenge:
 17. [Day 17: Web Storages](Day17/day17.md)
 18. [Day 18: Promises](Day18/day18.md)
 19. [Day 19: Closures](Day19/day19.md)
+20. [Day 20: Writing Clean Codes](Day20/day20.md)
+21. [Day 21: Document Object Model(DOM)](Day21/day21.md)
 
 ## Contributing
 
