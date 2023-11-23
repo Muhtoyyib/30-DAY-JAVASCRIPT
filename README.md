@@ -47,6 +47,7 @@ Here's a list of the 30 topics I covered during this challenge:
 20. [Day 20: Writing Clean Codes](Day20/day20.md)
 21. [Day 21: Document Object Model(DOM)](Day21/day21.md)
 22. [Day 22: Manipulating DOM Object](Day22/day22.md)
+23. [Day 23: Event Listeners](Day23/day23.md)
 
 ## Contributing
 

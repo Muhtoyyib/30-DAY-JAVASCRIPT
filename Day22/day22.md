@@ -1,4 +1,4 @@
-# [Day 22](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day21/day21.md)
+# [Day 22](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day22/day22.md)
 
 Welcome to Day 22 of our 30-Day JavaScript Challenge! 
 
