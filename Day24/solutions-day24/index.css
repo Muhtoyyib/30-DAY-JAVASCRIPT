@@ -1,0 +1,84 @@
+*, *::after, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+  
+html {
+    font-size: 62.5%;
+}
+  
+body {
+    box-sizing: border-box;
+    background-image: url(./images/milky-way-starry-sky-night-sky-star-956999.jpeg);
+    background-size: cover;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.7;
+}
+
+header h1{
+    font-size: 4rem;
+    color: beige;
+    text-align: center;
+    padding: 3rem .3rem;
+    word-spacing: 1rem;
+    letter-spacing: .7rem;
+}
+
+.form-container{
+    width: 510px;
+    margin: 0 auto;
+}
+
+.form-container form input,select,button{
+    padding: .8rem;
+    margin: .3rem;
+    text-transform: uppercase;
+}
+
+.output{
+   background-color:  #030303;
+   width: 1000px;
+   margin: 2rem auto; 
+}
+
+.output::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.output:not(:last-child){
+    margin-bottom: 1rem;
+}
+
+.output .col-1-of-2 {
+    width: calc((100% - 0.2rem) / 2);
+    float: left;
+}
+.result{
+    position: relative;
+}
+
+.planet{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text{
+    color: beige;
+    text-align: center;
+    position: absolute;
+    top: 13rem;
+    right: 12rem;
+}
+
+.error{
+    width: 70%;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: rgba(3, 3, 3, 3);
+    color: red;
+}

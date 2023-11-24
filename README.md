@@ -48,6 +48,7 @@ Here's a list of the 30 topics I covered during this challenge:
 21. [Day 21: Document Object Model(DOM)](Day21/day21.md)
 22. [Day 22: Manipulating DOM Object](Day22/day22.md)
 23. [Day 23: Event Listeners](Day23/day23.md)
+24. [Day 24: Mini Project Solar System](Day24/day24.md)
 
 ## Contributing
 
