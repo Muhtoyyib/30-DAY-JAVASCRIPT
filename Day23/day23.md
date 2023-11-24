@@ -2,7 +2,7 @@
 
 Welcome to Day 23 of our 30-Day JavaScript Challenge! 
 
-Today, we're diving into **Event Listenerrs**.
+Today, we're diving into **Event Listeners**.
 
 JavaScript **event listeners** enable the execution of functions in response to user actions or interactions with a webpage. They are attached to HTML elements and respond to events like clicks, keypresses, or form submissions. Using methods like `addEventListener`, developers specify the event type and the function to be executed. For example, a button click triggers a function, allowing dynamic manipulation of content or interactions. Event listeners enhance interactivity by enabling developers to respond to user-driven events, creating a dynamic and responsive web experience.
 

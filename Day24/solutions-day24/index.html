@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap" rel="stylesheet">
+    <title>Universal Weight Watcher</title>
+</head>
+<body>
+    <header>
+        <h1>Universal Weight Watcher</h1>
+    </header>
+    
+    <main>
+        <div class="form-container">
+            <form id="form">
+                <input type="text" name="mass" id="mass" placeholder="Mass in Kilogram">
+                <select name="planets" id="planets">
+                    <option value="--select planet--"> --select planet-- </option>
+                    <option value="Mercury"> Mercury</option>
+                    <option value="Venus">Venus</option>
+                    <option value="Earth">Earth</option>
+                    <option value="Mars">Mars</option>
+                    <option value="Jupiter">Jupiter</option>
+                    <option value="Saturn">Saturn</option>
+                    <option value="Uranus">Uranus</option>
+                    <option value="Neptune">Neptune</option>
+                  </select>
+
+                  <button type="submit" id="submit">calculate Weight</button>
+            </form>
+        </div>
+
+        <div class="output" id="output"> </div>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+</html>
