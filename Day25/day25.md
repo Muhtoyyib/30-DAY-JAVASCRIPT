@@ -6,7 +6,7 @@ Today, we're diving into **World Countries Data Visualization**.
 
 **World Countries Data Visualization** is a visualization of the most populated countries and the most spoken languages in the world using DOM(HTML, CSS, JS)
 
-Before you proceed to the [solutions](solutions-day25/) folder, make sure to review the essential concepts and exercises in the <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/24_Day_Project_solar_system/24_day_project_solar_system.md" target="_blank"> Introduction document</a>.
+Before you proceed to the [solutions](solutions-day25/) folder, make sure to review the essential concepts and exercises in the [Introduction document](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md).
 
 Let's code, create, and conquer together 👨🏻‍💻🚀💪🏻!
 
