@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <title> World Countries Data</title>
+</head>
+<body>
+    <header class="header">
+        <h1 class="heading">
+            <span class="heading--main">World countries data</span>
+            <span class="heading--sub"> Currently, we have 250 countries</span>
+        </h1>
+    </header>
+
+    <main>
+        <section>
+            <div class="directory">
+                
+                <button class="btn" id="getPopulationData">
+                    population
+                </button>
+                <button class="btn" id="getLanguagesData">
+                    languages
+                </button>
+    
+                <p class="directory__paragraph" id="directory__paragraph"> </p>
+            </div>    
+        </section>
+
+        <section class="data-display" id="data-display"></section>
+    </main>
+    
+    <script src="index.js"></script>
+</body>
+</html>
