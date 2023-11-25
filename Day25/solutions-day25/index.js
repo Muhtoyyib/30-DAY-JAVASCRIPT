@@ -2998,9 +2998,9 @@ getPopulationData.addEventListener('click', () => {
 getLanguagesData.addEventListener('click', () => {
 	let dataDisplay = document.getElementById('data-display');
 	dataDisplay.textContent = "";
-    let languagesData = mostSpokenLang(countries_data, 10);
 
 	let number = prompt('How many countries data do you wish to display?');
+	let languagesData = mostSpokenLang(countries_data, number);
 	let directory__paragraph = document.getElementById('directory__paragraph');
 	directory__paragraph.textContent = `Top ${number} Most Spoken Languages`;
 
