@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="icons/linea_basic_1.0/_ICONFONT/styles.css">
+    <link rel="stylesheet" href="index.css">
+
+    <title> World Countries List</title>
+</head>
+<body>
+    <header class="header">
+        <h1 class="primary-heading">world countries list</h1>
+        <p class="secondary-heading" id="secondaryHeading"></p>
+        <p class="result-summary" id="result-summary"></p>
+
+        <div class="header--clickables">
+            <button class="button" id="starting-word"> starting word</button>
+            <button class="button" id="any-word"> search with any word</button>
+            <button class="button button__3" id="a-z">AZ <br> &#8594;</button>
+        </div>
+
+        <div class="search">
+            <input class="search-input" type='search' placeholder="Search country..." id="search" required/>
+            <!-- <i class="search__icon icon-basic-magnifier"></i> -->
+        </div>
+    </header>
+
+    <main>
+        <div class="countries" id="data-display">
+            <div class="row" id="row">
+            </div>
+        </div>
+    </main>
+    
+
+    <script src="index.js"></script>
+</body>
+</html>
