@@ -51,6 +51,7 @@ Here's a list of the 30 topics I covered during this challenge:
 24. [Day 24: Mini Project Solar System](Day24/day24.md)
 25. [Day 25: World Countries Data Visualization](Day25/day25.md)
 26. [Day 26: World Countries Data Visualization 2](Day26/day26.md)
+27. [Day 27: Simple Portfolio](Day27/day27.md)
 
 ## Contributing
 

@@ -1,0 +1,153 @@
+*, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    box-sizing: border-box;
+    color: #868e96;
+}
+
+header{
+    width: 80%;
+    padding: 4rem;
+    margin: 0 auto;
+}
+
+.primary-heading{
+    color: #343a40;
+    font-size: 6rem;
+    text-transform: capitalize;
+}
+
+main{
+    width: 80%;
+    padding: 1.5rem 2rem;
+    margin: 0 auto;
+}
+
+.skills{
+    padding: 2rem 2.5rem;
+    background-color: rgba(218, 192, 163, .6);
+    color: #495057;
+    position: relative;
+}
+
+.skills__text{
+    font-size: 2rem;
+    text-align: center;
+    display: inline-block;
+    padding: 0 2rem;
+    position: absolute;
+    top: 3.5rem;
+    animation: moveInLeft 4s infinite;
+}
+
+.skills__icon{
+    font-size: 5rem;
+    display: inline-block;
+    background-image: linear-gradient(to right,rgba(52, 58, 64, .7), rgba(52, 58, 64, 1));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent; 
+}
+
+.paragraph{
+    padding-top: 2rem;
+    font-size: 1.7rem;
+    line-height: 3.4rem;
+    font-weight: 100;
+    color: #495057;
+}
+
+.bold{
+    color: #343a40;
+}
+
+.row{
+    width: 80%;
+    margin: 5rem auto;
+}
+
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.row:not(:last-child){
+    margin-bottom: 2rem;
+}
+
+.row [class^='col-']{
+    float: left;
+    margin-bottom: 1rem;
+}
+
+.row [class^='col-']:not(:last-child){
+    margin-right: 5rem;
+}
+
+.row .col-1-of-3{
+    width: calc((100% - (2 * 6rem)) / 3);
+    padding: 10rem;
+    background-color: #f8f9fa;
+    border: 1px solid #f1f3f5;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+.row .col-1-of-3:hover{
+    background-color: rgba(218, 192, 163, .6);
+}
+
+.container__text{
+    text-decoration: none;
+    font-size: 1.6rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #495057;
+}
+
+.technology{
+    font-size: 4rem;
+    font-weight: bold;
+    animation: changeText 4s infinite;
+}
+
+
+@keyframes changeText {
+    0% {
+        opacity: 0;
+    }
+
+    80%{
+        opacity: .5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes moveInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-4rem); 
+    }
+
+    100% {
+      opacity: 1;
+      transform: translate(0); 
+    } 
+}
