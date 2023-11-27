@@ -10,4 +10,4 @@ Before you proceed to the [solutions](solutions-day26/) folder, make sure to rev
 
 Let's code, create, and conquer together 👨🏻‍💻🚀💪🏻!
 
-[<< Day 24](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day24/day24.md) | [Day 26 >>](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day26/day26.md)
+[<< Day 25](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day25/day25.md) | [Day 27 >>](https://github.com/Muhtoyyib/30-DAY-JAVASCRIPT/blob/main/Day27/day27.md)
