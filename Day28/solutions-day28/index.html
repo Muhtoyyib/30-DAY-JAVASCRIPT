@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1 class="primary-heading">
+            30 Days JavaScript challenge leaderboard
+        </h1>
+    </header>
+    
+    <main class="content-container">
+        <div class="form-container">
+            <form action="#" class="form" id="form">
+                <input type="text" class="form__input" id="fname" placeholder="First Name" >
+                <input type="text" class="form__input" id="lname" placeholder="Last Name" >
+                <input type="text" class="form__input" id="country" placeholder="country" >
+                <input type="number" class="form__input" id="score" placeholder="player score" >
+
+                <button type="submit" class="form__button"> Add Player</button>
+            </form>
+        </div>
+
+        <p class="form-invalid" id="form-invalid"></p>
+
+        <div class="leader-board" id="board"></div> 
+        </div>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+</html>
