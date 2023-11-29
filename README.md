@@ -52,7 +52,8 @@ Here's a list of the 30 topics I covered during this challenge:
 25. [Day 25: World Countries Data Visualization](Day25/day25.md)
 26. [Day 26: World Countries Data Visualization 2](Day26/day26.md)
 27. [Day 27: Simple Portfolio](Day27/day27.md)
-28. [Day 27: Leaderboard](Day28/day28.md)
+28. [Day 28: Leaderboard](Day28/day28.md)
+29. [Day 29: Animating Characters](Day29/day29.md)
 
 ## Contributing
 
