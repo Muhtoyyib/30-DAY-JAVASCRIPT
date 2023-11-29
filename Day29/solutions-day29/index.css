@@ -1,0 +1,10 @@
+body {
+    transition: background-color 1s;
+}
+
+.char {
+    font-size: 9.8rem;
+    font-weight: bold;
+    display: inline-block;
+    transition: color 1s;
+}
