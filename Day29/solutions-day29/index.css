@@ -3,7 +3,7 @@ body {
 }
 
 .char {
-    font-size: 9.8rem;
+    font-size: 9.5rem;
     font-weight: bold;
     display: inline-block;
     transition: color 1s;
