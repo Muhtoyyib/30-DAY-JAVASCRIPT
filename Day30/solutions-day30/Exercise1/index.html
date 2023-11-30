@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="linea_software_1.0/_ICONFONT/styles.css">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <h1 class="heading">
+            <span class="heading--main">World countries data</span>
+            <span class="heading--sub"> Currently, we have 250 countries</span>
+        </h1>
+        <p class="search-comment" id="comment"></p>
+    </header>
+
+    <main class="main">
+        <div class="search">
+            <input type="text" class="seacrh--input" id="query" placeholder="Search countries by name, capital, and population">
+
+            <div class="search__buttons-container">
+                <button class="search__button" id="getCountriesWithName">name</button>
+                <button class="search__button" id="getCountriesWithCapital">capital</button>
+                <button class="search__button" id="getCountriesWithPopulation">population</button>
+                <button class="search__icon-button" id="search__icon-button">
+                    <i class="search__icon icon-software-paragraph-align-left"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="search-result" id="search__result"></div>
+
+        <div class="data-ranking">
+            <div>
+                <section>
+                    <div class="directory">
+                        <button class="btn" id="getPopulationData">
+                            population
+                        </button>
+                        <button class="btn" id="getLanguagesData">
+                            languages
+                        </button>
+            
+                        <p class="directory__paragraph" id="directory__paragraph"> </p>
+                    </div>    
+                </section>
+        
+                <section class="data-display" id="data-display"></section>
+            </div>
+        </div>
+
+    </main>
+    
+
+    <script src="index.js"></script>
+</body>
+</html>

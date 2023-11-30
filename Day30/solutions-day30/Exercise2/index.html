@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title> Validating Forms</title>
+</head>
+<body>
+    <header class="header">
+        <h1 class="primary-heading">
+            Validating Web Forms
+        </h1>
+    </header>
+
+    <main class="main">
+        <form action="#" class="form" id="form">
+            <label for="fname" class="form__label">First Name</label> <br>
+            <input type="text" class="form__input" id="fname">
+            <p class="error-message" id="fnameE"></p>
+
+            <label for="lname" class="form__label">Last Name</label> <br>
+            <input type="text" class="form__input" id="lname">
+            <p class="error-message" id="lnameE"></p>
+
+            <label for="email" class="form__label">Email</label> <br>
+            <input type="text" class="form__input" id="email">
+            <p class="error-message" id="emailE"></p>
+
+            <label for="password" class="form__label">Password</label> <br>
+            <input type="password" class="form__input" id="password">
+            <p class="error-message" id="passwordE"></p>
+
+            <label for="tel" class="form__label"> Telephone </label> <br>
+            <input type="tel" class="form__input" id="tel">
+            <p class="error-message" id="telE"></p>
+
+            <label for="bio" class="form__label"> Your bio</label> <br>
+            <input type="text" class="form__input" id="bio">
+            <p class="error-message" id="bioE"></p>
+
+            <button type="submit" class="form__button" id="submit"> Submit </button>
+        </form>
+    </main>
+
+
+    <script src="index.js"></script>
+</body>
+</html>

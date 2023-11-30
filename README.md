@@ -54,6 +54,7 @@ Here's a list of the 30 topics I covered during this challenge:
 27. [Day 27: Simple Portfolio](Day27/day27.md)
 28. [Day 28: Leaderboard](Day28/day28.md)
 29. [Day 29: Animating Characters](Day29/day29.md)
+30. [Day 30: Final Projects](Day30/day30.md)
 
 ## Contributing
 
