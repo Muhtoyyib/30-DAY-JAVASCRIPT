@@ -60,4 +60,5 @@ Here's a list of the 30 topics I covered during this challenge:
 
 If you'd like to contribute, feel free to open issues, suggest improvements, or provide your solutions to the challenges. Your contributions are highly appreciated!
 
-Enjoy your journey through my 30-Day JavaScript Challenge and happy coding! 🎉
+Enjoy your journey through my 30-Day JavaScript Challenge and happy coding! 🎉🚀 
+
